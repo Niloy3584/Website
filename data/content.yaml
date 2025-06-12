@@ -1,0 +1,104 @@
+BasicInfo:
+  FirstName: Nahid Ahmed
+  LastName: Niloy
+  Photo: img/b.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +8801975373848
+    - Icon: fas fa-envelope
+      Info: ahmedniloy2704@diu.edu.bd
+    - Icon: fas fa-globe
+      Info: <a class="contact__link" href="https://sites.google.com/view/niloy3584/home" target="_blank">niloy3584.com</a>
+    - Icon: fas fa-map-marker-alt
+      Info: Bangladesh
+
+Profile: MSc in CSE, Major in Data Science student at Daffodil International University. Passionate about coding, problem-solving, and tech innovation. Aspiring Data Analyst. Enjoys reading, gaming, and connecting with people. Always learning.
+
+Experience:
+  - Employer:
+    Positions:
+      - Title: Nahid Ahmed Niloy
+        Details:
+          - Fathers Name - MD. Nasir Uddin
+          - Mothers Name - Sonia Akter
+          - Date of Birth - 26th November, 2001
+          - Religion - Islam
+          - Nationality - Bangladeshi
+          - Marital Status - Single
+
+Education:
+  - Course: BSc in Computer Science and Engineering
+    Place: Daffodil International University
+    Date: 2020 - 2024
+    Details: CGPA 3.77
+
+  - Course: HSC
+    Place: Savar Cantonment Public School and Collage
+    Date: 2017 - 2019
+    Details: GPA 5.00
+
+  - Course: SSC
+    Place: Tangail Residential School and Collage
+    Date: 2016 - 2017
+    Details: GPA 5.00
+
+
+
+References:
+  - Name: Mr. Abdus Sattar
+    Relation: Associate Professor & Director, M.Sc
+    Contacts:
+    - Icon: fas fa-phone
+      Info: 01818392800
+    - Icon: fas fa-envelope
+      Info: abdus.cse@diu.edu.bd
+    - Icon: fas fa-map-marker-alt
+      Info: Daffodil International University
+  - Name: Mr. Md Assaduzzaman
+    Relation: Lecturer
+    Contacts:
+    - Icon: fas fa-phone
+      Info: 01824089009
+    - Icon: fas fa-envelope
+      Info: assaduzzaman.cse@diu.edu.bd
+    - Icon: fas fa-map-marker-alt
+      Info: Daffodil International University
+
+
+Skills:
+  - Family: Programming
+    Items:
+      - Python
+      - Database Management
+      - Javascript
+      - CSS
+      - SQL
+      - MATLAB
+
+  - Family: Developer Tools
+    Items:
+      - Git
+      - Docker
+      - AWS
+  - Family: Misc
+    Items:
+      - Adobe Tools
+      - Microsoft Tools
+
+Languages:
+  - Name: Bangla
+    Level: Native
+  - Name: English
+    Level: C1
+
+
+Diplomas:
+  - AWS Academy Cloud Foundations Certification (2025)
+
+Interests:
+  - Reading
+  - Traveling
+  - Body Building
+  - Gaming
+  - Design
+  - Presentation
